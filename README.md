@@ -1,13 +1,13 @@
 # PersonalLoanApprovalPredictionModel
 Classification model to predict personal loan purchases using decision trees with pruning, handling class imbalance and business insights.
-![Loan image](https://github.com/vaishnavipalyam/PersonalLoanApprovalPredictionModel/blob/main/bank-loan-successfully-illustration-concept-on-white-background-vector.jpg, 'Loan Image')
+![Loan image](https://github.com/vaishnavipalyam/PersonalLoanApprovalPredictionModel/blob/main/bank-loan-successfully-illustration-concept-on-white-background-vector.jpg)
 
 ## 🔍 Problem Statement
 Banks want to identify potential customers likely to opt for personal loans so they can run targeted marketing campaigns. The target variable is highly imbalanced (only 9% success rate), so the model needs to maximize recall without sacrificing too much precision.
 
 ## 📂 Project Structure
 - `PersonalLoanCampaign_VaishnaviHP.ipynb`: Jupyter notebook with EDA, model building, evaluation, and business recommendations.
-- credit_card_approval.csv : The dataset used for building the model.
+- `Loan_Model.csv` : The dataset used for building the model.
 
 ## ✅ Techniques Used
 - Exploratory Data Analysis (EDA)
